@@ -1,7 +1,3 @@
-Bien sûr ! Voici une présentation de Docker :
-
----
-
 **Introduction à Docker**
 
 **Qu'est-ce que Docker ?**
