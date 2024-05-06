@@ -45,4 +45,7 @@ Docker simplifie le processus de développement et de déploiement des applicati
 3. **Tests d'applications** : Docker permet de créer des environnements de test isolés et reproductibles, ce qui facilite l'automatisation des tests d'intégration et de validation.
 
 4. **Microservices et architectures distribuées** : Docker est idéal pour les architectures basées sur les microservices, car il permet d'encapsuler chaque service dans un conteneur distinct, ce qui favorise la scalabilité et la gestion des dépendances.
+
+![image](https://github.com/yugmerabtene/DORANCO-CDA-DOCKER-2024/assets/3670077/2f1c192b-d2e1-4962-adaa-81f0029f497f)
+
 ---
