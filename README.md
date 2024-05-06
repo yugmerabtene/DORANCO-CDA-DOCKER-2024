@@ -35,6 +35,9 @@ Docker simplifie le processus de développement et de déploiement des applicati
 
 **Cas d'utilisation de Docker :**
 
+![image](https://github.com/yugmerabtene/DORANCO-CDA-DOCKER-2024/assets/3670077/5342a71a-952a-4904-ad28-81c666e5075b)
+
+
 1. **Déploiement d'applications** : Docker simplifie le déploiement d'applications en encapsulant chaque application dans un conteneur, ce qui garantit une portabilité et une isolation maximales.
 
 2. **Développement de logiciels** : Docker facilite la création d'environnements de développement cohérents en permettant aux développeurs de spécifier les dépendances de leur application dans un Dockerfile.
