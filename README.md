@@ -1,11 +1,10 @@
+
+![image](https://github.com/yugmerabtene/DORANCO-CDA-DOCKER/assets/3670077/a2b443c1-112f-4991-9ccc-33c598496d6a)  
+
 **Introduction à Docker**
 
 **Qu'est-ce que Docker ?**
 Docker est une plateforme open source qui permet de développer, déployer et exécuter des applications dans des conteneurs. Les conteneurs Docker encapsulent les applications avec toutes leurs dépendances, ce qui garantit une exécution cohérente et prévisible, quel que soit l'environnement.  
-
-
-![image](https://github.com/yugmerabtene/DORANCO-CDA-DOCKER/assets/3670077/a2b443c1-112f-4991-9ccc-33c598496d6a)  
-
 
 **Pourquoi Docker ?**
 Docker simplifie le processus de développement et de déploiement des applications en éliminant les problèmes liés à la configuration de l'environnement. Il permet aux développeurs de créer des applications légères, portables et auto-suffisantes.
