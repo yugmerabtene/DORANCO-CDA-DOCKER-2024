@@ -9,7 +9,11 @@ Docker est une plateforme open source qui permet de développer, déployer et ex
 **Pourquoi Docker ?**
 Docker simplifie le processus de développement et de déploiement des applications en éliminant les problèmes liés à la configuration de l'environnement. Il permet aux développeurs de créer des applications légères, portables et auto-suffisantes.
 
+
+![image](https://github.com/yugmerabtene/DORANCO-CDA-DOCKER-2024/assets/3670077/58c56ea0-8c06-41e1-9a19-721b73ebf8cb)
+
 **Principales caractéristiques de Docker :**
+
 
 1. **Isolation** : Les conteneurs Docker fournissent une isolation des applications, ce qui signifie que chaque application fonctionne dans son propre environnement, séparé des autres applications sur le même système.
 
