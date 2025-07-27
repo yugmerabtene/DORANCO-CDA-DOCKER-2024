@@ -1,7 +1,3 @@
-Voici le **syllabus complet sur Docker**, sans emojis, sans JavaScript (remplacé par Java), et structuré pour une progression claire. Ce programme est adapté à une formation de 5 à 10 jours selon le niveau et les objectifs des apprenants.
-
----
-
 **SYLLABUS COMPLET – FORMATION DOCKER ORIENTÉE JAVA**
 
 ---
