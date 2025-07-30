@@ -1,7 +1,3 @@
-Voici le **MODULE 1 – Introduction à Docker et à la conteneurisation**, rédigé sous forme de **support de cours structuré**, clair, sans emoji, et adapté à un public intermédiaire ou débutant sérieux. Il peut servir de base à un cours magistral + TP en présentiel ou à distance.
-
----
-
 **MODULE 1 – INTRODUCTION À DOCKER ET À LA CONTENEURISATION**
 
 ---
